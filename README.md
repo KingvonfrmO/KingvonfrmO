@@ -29,9 +29,16 @@ Welcome to my GitHub! I'm a developer passionate about crafting clean, efficient
 
 ---
 
+## 📊 GitHub Stats
+
+![Jeffery's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=github_dark&count_private=true&hide=contribs)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=github_dark)
+
+
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/jefferymutuku) *(add your real link!)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/jefferymutuku)
 - 📧 jefferymutuku283@gmail.com
 
 ---
