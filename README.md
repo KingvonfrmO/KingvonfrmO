@@ -31,9 +31,9 @@ Welcome to my GitHub! I'm a developer passionate about crafting clean, efficient
 
 ## 📊 GitHub Stats
 
-![Jeffery's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=github_dark&count_private=true&hide=contribs)
+![Jeffery's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KingvonfrmO&show_icons=true&theme=github_dark&count_private=true&hide=contribs)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KingvonfrmO&layout=compact&theme=github_dark)
 
 
 ## 📫 Let's Connect
